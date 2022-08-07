@@ -113,7 +113,7 @@ This table shows the specific weights of different commodities in the CPI statis
 3) Analysis 3
 
 
-4) Analysis 4
+4) Analysis 4 ：what are the main factors driving inflation at different times?
 
 First, open the CPI table provided by the National Bureau of Statistics. We used the MAX formula to get the most significant increase in each month of goods, as shown in the figure below. We can see that except for the beginning of the epidemic, such as from March to September 20, when the surge in demand for medical supplies led to an increase in medical supplies, the rest of the month's inflation was caused by oil.
 
