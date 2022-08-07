@@ -37,38 +37,47 @@ In this project, I analyzed CPI data and core CPI data from [U.S. BUREAU OF LABO
 
 1) Personal Income Change Rate
 This graph shows the change in personal income from the start of the outbreak in January 2020 to the present.
+
 ![image](https://raw.githubusercontent.com/pan317/J124-Final/main/Personal%20income%20change%20rate.png)
 
 2) All Items Index
 This graph shows the change in prices of all items from the beginning of the outbreak in January 2020 to the present.
+
 ![image](https://raw.githubusercontent.com/pan317/J124-Final/main/all-items-in-us-city-ave.png)
 
 3) Food Index
 This graph shows the change in food prices from the beginning of the outbreak in January 2020 to the present
+
 ![image](https://raw.githubusercontent.com/pan317/J124-Final/main/food-at-home-in-us-city.png)
 
 4) Energy Index
 This graph shows the change in energyprices from the beginning of the outbreak in January 2020 to the present.
+
 ![image](https://raw.githubusercontent.com/pan317/J124-Final/main/energy-in-us-city-averag.png)
 
 5) Housing Index
 This graph shows the change in housing prices from the beginning of the outbreak in January 2020 to the present.
+
 ![image](https://raw.githubusercontent.com/pan317/J124-Final/main/housing-in-us-city-avera.png)
 
 6) Personal Consumption Expenditures Change Rate
 This graph shows the change in personal consumption expenditures from the beginning of the outbreak in January 2020 to the present.
+
 ![image](https://raw.githubusercontent.com/pan317/J124-Final/main/Personal%20Consumption%20Expenditures%20change%20rate.png)
 
 7) CPI Comparison Of Major Commodity Data
 This bar chart shows a comparison of the magnitude of change in key commodities from the start of the January 2020 outbreak to the present.
+
 ![image](https://raw.githubusercontent.com/pan317/J124-Final/main/CPI%20comparison%20of%20major%20commodity%20data.jpg)
 
 8) CPI Five wWighted Commodity Change Comparison
 This radar chart shows a comparison of the magnitude of change in the five CPI weighted commodities from the start of the January 2020 outbreak to the present.
+
 ![image](https://github.com/pan317/J124-Final/blob/main/CPI%20five%20weighted%20commodity%20change%20comparison.jpg)
 
 9) CPI Components
 This table shows the specific weights of different commodities in the CPI statistics.
+
 ![image](https://raw.githubusercontent.com/pan317/J124-Final/main/CPI%20components.png)
 
 
