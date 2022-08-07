@@ -106,6 +106,9 @@ This table shows the specific weights of different commodities in the CPI statis
 ### Analysis
 1) Analysis 1 ：What is the situation of consumption based on the current level of CPI and income growth?
 
+From Figure 1 to Figure 6, people can see that personal income has little growth during this period, while personal necessities such as food, energy, and medical supplies all tend to rise significantly. Therefore, personal consumption no longer has a strong growth momentum under the high prices; instead, it has turned into a contraction of consumption, as shown in Figure 6 Personal Consumption Expenditures Change Rate.
+
+![image](https://raw.githubusercontent.com/pan317/J124-Final/main/Personal%20Consumption%20Expenditures%20change%20rate.png)
 
 2) Analysis 2 ：Which goods have the highest correlation with CPO and what is the link to the current inflation situation?
 
@@ -115,13 +118,15 @@ As you can see from the CPI Components table above, the highest proportion of th
 
 3) Analysis 3 ：what types of commodities are the main factors cause high CPI？
 
+As seen by the eighth data chart CPI Five wWighted Commodity Change Comparison, under the chain of commodity growth, only the energy category pulled away from the other commodities by a significant margin. Although its weight is not the highest, the percentage of increase is striking and is currently the main factor of inflation.
+
+![image](https://github.com/pan317/J124-Final/blob/main/CPI%20five%20weighted%20commodity%20change%20comparison.jpg)
 
 4) Analysis 4 ：what are the main factors driving inflation at different times?
 
 First, open the CPI table provided by the National Bureau of Statistics. We used the MAX formula to get the most significant increase in each month of goods, as shown in the figure below. We can see that except for the beginning of the epidemic, such as from March to September 20, when the surge in demand for medical supplies led to an increase in medical supplies, the rest of the month's inflation was caused by oil. Also the graph of "CPI Comparison Of Major Commodity Data" above can support this opinion.
 
 ![image](https://raw.githubusercontent.com/pan317/J124-Final/main/Max.png)
-
 
 5) Analysis 5 ：whether there is some lag in inflation?
 
