@@ -106,7 +106,7 @@ This table shows the specific weights of different commodities in the CPI statis
 ### Analysis
 1) Analysis 1 ：What is the situation of consumption based on the current level of CPI and income growth?
 
-From Figure 1 to Figure 6, people can see that personal income has little growth during this period, while personal necessities such as food, energy, and medical supplies all tend to rise significantly. Therefore, personal consumption no longer has a strong growth momentum under the high prices; instead, it has turned into a contraction of consumption, as shown in Figure 6 Personal Consumption Expenditures Change Rate.
+From Figure 1 to Figure 5, people can see that personal income has little growth during this period, while personal necessities such as food, energy, and medical supplies all tend to rise significantly. Therefore, personal consumption no longer has a strong growth momentum under the high prices; instead, it has turned into a contraction of consumption, as shown in Figure 6 Personal Consumption Expenditures Change Rate.
 
 ![image](https://raw.githubusercontent.com/pan317/J124-Final/main/Personal%20Consumption%20Expenditures%20change%20rate.png)
 
@@ -130,7 +130,8 @@ First, open the CPI table provided by the National Bureau of Statistics. We used
 
 5) Analysis 5 ：whether there is some lag in inflation?
 
+As you can see in the sorted data table in the chart, the green represents the three months with the most significant statistical increase in oil, the orange represents the three months with the most notable statistical increase in overall inflation, and the orange represents June 2022 for both. We can see that the surge in the rate of commodities may not be the biggest overall increase in the month, and its effect on overall inflation depends on other items and the conduction to the market also takes some time.
 
-
+![image](https://raw.githubusercontent.com/pan317/J124-Final/main/sort.png)
 
 
