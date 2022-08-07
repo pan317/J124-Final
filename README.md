@@ -10,3 +10,23 @@ A recent joint survey by George Mason University's School of Policy and Governme
 The survey conducted by CBS News polling shows that rising prices are making many Americans worry about economic turn to negative expectations and being unable to afford their retirement, vacations, and even daily expenses. One-third of the respondents said they were "very concerned" about their ability to pay for goods and services to meet their basic needs.
 
 ## Sourcing
+
+In this project, I analyzed [“California Kindergarten Immunization Rates”](https://www.kaggle.com/broach/california-kindergarten-immunization-rates?select=InfantData.csv) sourced from the California Department of Public Health. My analysis focuses on [kindergarten immunization statistics](https://www.kaggle.com/broach/california-kindergarten-immunization-rates?select=StudentData.csv) from 2000 to 2015. 
+
+### Potential Interview Contacts
+1) Seung Jung Lee,Associate Director,Board of Governors of the Federal Reserve System
+  * Email:seung.j.lee@frb.gov 
+	* Seung Jung Lee is an experienced head of research group with a demonstrated history of working in financial stability, banking, and syndicated lending-related topics. Also focuses on policy issues of core interest to the central bank and financial supervisory community.
+2)Burcu Duygan-Bump, Associate Director,Program Direction Section of Research and Statistics
+	* Email: burcu.duygan-bump@frb.gov
+	* Phone Number: 202-912-4663
+	* Burcu Duygan-Bump worked as a Deputy Associate Director for the Federal Reserve Board of Governors (FRB),she focus on the liquidity regulations and a lender of last resort in order to organize the data from open market.
+
+### Additional Sources
+1) [Most Americans expect inflation to get worse, Post-Schar School poll finds](https://www.washingtonpost.com/business/2022/06/09/inflation-worse-poll-americans/)
+	* This source provides statistics on the county’s self-assessed health needs.
+	* This information can be used to identify additional trends that contextualize the barriers residents are facing when it comes to early childhood immunizations for MMR, DTP, and Polio.
+Any trends found can be used to develop strategies to improve health outcomes in Nevada County in a solutions-based journalism piece. 
+2) [POLITICS Expectations negative as views of economy, finances worsen — CBS News poll](https://www.cbsnews.com/news/economy-personal-finances-opinion-poll-2022-06-26/)
+	* This source provides the latest statistics posted by the county on Covid-19 transmission amidst increased vaccination efforts and the rising delta variant.
+	* This information can be compared to national vaccination and case rate data to outline and address the deficits in Nevada County amidst recent surges.
