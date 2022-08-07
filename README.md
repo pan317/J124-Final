@@ -34,7 +34,7 @@ In this project, I analyzed CPI data and core CPI data from [U.S. BUREAU OF LABO
 	* This information can effectively reflect the mindset and expectations of the public regarding economic development trends and feedback their psychological expectations, thus providing readers with a complete narrative reference.
 
 ## Data Visualizations
-![image]([Personal income change rate.png](https://github.com/pan317/J124-Final/blob/main/Personal%20income%20change%20rate.png))
+![image](https://raw.githubusercontent.com/pan317/J124-Final/main/Personal%20income%20change%20rate.png)
 
 ## Data Explore & Analysis
 
