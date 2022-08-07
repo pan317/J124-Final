@@ -52,8 +52,8 @@ In this project, I analyzed CPI data and core CPI data from [U.S. BUREAU OF LABO
 
 ## Data Explore & Analysis
 ### Key Statements
-	*All questions were answered using only the above data set.
-	*All analyses are based on available data and do not represent personal predictive opinions。
+* All questions were answered using only the above data set.
+* All analyses are based on available data and do not represent personal predictive opinions.
 
 
 ### Scope of Analysis 
