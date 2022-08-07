@@ -98,7 +98,7 @@ This table shows the specific weights of different commodities in the CPI statis
 
 ### Scope of Analysis 
 1) What is the situation of consumption based on the current level of CPI and income growth?
-2) 
+2) Which goods have the highest correlation with CPO and what is the link to the current inflation situation?
 3) what types of commodities are the main factors cause high CPI？
 4) what are the main factors driving inflation at different times?
 5) whether there is some lag in inflation?
@@ -107,8 +107,11 @@ This table shows the specific weights of different commodities in the CPI statis
 1) Analysis 1 ：What is the situation of consumption based on the current level of CPI and income growth?
 
 
-2) Analysis 2 ：
+2) Analysis 2 ：Which goods have the highest correlation with CPO and what is the link to the current inflation situation?
 
+As you can see from the CPI Components table above, the highest proportion of the CPI's statistical weights is the OER, or Owners' Equivalent Rent, which has not increased much; therefore, the overall CPI has not increased by double digits, and the increase in its weight after the revision has depressed inflation at the data level.
+
+![image](https://raw.githubusercontent.com/pan317/J124-Final/main/CPI%20components.png)
 
 3) Analysis 3 ：what types of commodities are the main factors cause high CPI？
 
