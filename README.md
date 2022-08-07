@@ -11,7 +11,7 @@ The survey conducted by CBS News polling shows that rising prices are making man
 
 ## Sourcing
 
-In this project, I analyzed [“California Kindergarten Immunization Rates”](https://www.kaggle.com/broach/california-kindergarten-immunization-rates?select=InfantData.csv) sourced from the California Department of Public Health. My analysis focuses on [kindergarten immunization statistics](https://www.kaggle.com/broach/california-kindergarten-immunization-rates?select=StudentData.csv) from 2000 to 2015. 
+In this project, I analyzed CPI data and core CPI data from U.S. BUREAU OF LABOR STATISTICS(https://www.bls.gov/charts/consumer-price-index/consumer-price-index-by-category.htm),
 
 ### Potential Interview Contacts
 1) Seung Jung Lee,Associate Director,Board of Governors of the Federal Reserve System
