@@ -35,7 +35,7 @@ In this project, I analyzed CPI data and core CPI data from [U.S. BUREAU OF LABO
 
 ## Data Visualizations
 
-1) 
+1) Personal Income Change Rate
 ![image](https://raw.githubusercontent.com/pan317/J124-Final/main/Personal%20income%20change%20rate.png)
 2)
 ![image](https://raw.githubusercontent.com/pan317/J124-Final/main/all-items-in-us-city-ave.png)
@@ -45,14 +45,13 @@ In this project, I analyzed CPI data and core CPI data from [U.S. BUREAU OF LABO
 ![image](https://raw.githubusercontent.com/pan317/J124-Final/main/energy-in-us-city-averag.png)
 5)
 ![image](https://raw.githubusercontent.com/pan317/J124-Final/main/housing-in-us-city-avera.png)
-
 6) 
 ![image](https://raw.githubusercontent.com/pan317/J124-Final/main/Personal%20Consumption%20Expenditures%20change%20rate.png)
-7) 
+7) CPI Components
 ![image](https://raw.githubusercontent.com/pan317/J124-Final/main/CPI%20components.png)
-8) 
+8) CPI Comparison Of Major Commodity Data
 ![image](https://raw.githubusercontent.com/pan317/J124-Final/main/CPI%20comparison%20of%20major%20commodity%20data.jpg)
-9) 
+9) CPI Five wWighted Commodity Change Comparison
 ![image](https://github.com/pan317/J124-Final/blob/main/CPI%20five%20weighted%20commodity%20change%20comparison.jpg)
 
 
