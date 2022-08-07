@@ -56,6 +56,7 @@ In this project, I analyzed CPI data and core CPI data from [U.S. BUREAU OF LABO
 ![image](https://github.com/pan317/J124-Final/blob/main/CPI%20five%20weighted%20commodity%20change%20comparison.jpg)
 
 9) CPI Components
+
 ![image](https://raw.githubusercontent.com/pan317/J124-Final/main/CPI%20components.png)
 
 
