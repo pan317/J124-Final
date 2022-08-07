@@ -51,12 +51,19 @@ In this project, I analyzed CPI data and core CPI data from [U.S. BUREAU OF LABO
 
 
 ## Data Explore & Analysis
+###Key Statements
+*All questions were answered using only the above data set.
+*All analyses are based on available data and do not represent personal predictive opinions。
+
+
 ### Scope of Analysis 
 1) What is the situation of consumption based on the current level of CPI and income growth?
 2) what commodities are most correlated with CPi
 3) what types of commodities are the main factors originating from high CPi
 4) what are the main factors driving inflation at different times
 5) whether there is some lag in inflation
+
+
 
 
 
