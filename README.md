@@ -11,7 +11,7 @@ The survey conducted by CBS News polling shows that rising prices are making man
 
 ## Sourcing
 
-In this project, I analyzed CPI data and core CPI data from U.S. BUREAU OF LABOR STATISTICS(https://www.bls.gov/charts/consumer-price-index/consumer-price-index-by-category.htm),
+In this project, I analyzed CPI data and core CPI data from [U.S. BUREAU OF LABOR STATISTICS](https://www.bls.gov/charts/consumer-price-index/consumer-price-index-by-category.htm),and also compared with the [personal income growth rate from Federal Reserve](https://fred.stlouisfed.org/series/PI),the period of these data all from 2020.Jan to 2022.June.
 
 ### Potential Interview Contacts
 1) Seung Jung Lee,Associate Director,Board of Governors of the Federal Reserve System
