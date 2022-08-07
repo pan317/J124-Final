@@ -36,6 +36,18 @@ In this project, I analyzed CPI data and core CPI data from [U.S. BUREAU OF LABO
 ## Data Visualizations
 ![image](https://raw.githubusercontent.com/pan317/J124-Final/main/Personal%20income%20change%20rate.png)
 
+![image](https://raw.githubusercontent.com/pan317/J124-Final/main/all-items-in-us-city-ave.png)
+![image](https://raw.githubusercontent.com/pan317/J124-Final/main/food-at-home-in-us-city.png)
+![image](https://raw.githubusercontent.com/pan317/J124-Final/main/energy-in-us-city-averag.png)
+![image](https://raw.githubusercontent.com/pan317/J124-Final/main/housing-in-us-city-avera.png)
+
+![image](https://raw.githubusercontent.com/pan317/J124-Final/main/Personal%20Consumption%20Expenditures%20change%20rate.png)
+
+
+
+![image](https://raw.githubusercontent.com/pan317/J124-Final/main/CPI%20components.png)
+
+
 ## Data Explore & Analysis
 
 
