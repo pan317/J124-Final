@@ -45,6 +45,7 @@ In this project, I analyzed CPI data and core CPI data from [U.S. BUREAU OF LABO
 ![image](https://raw.githubusercontent.com/pan317/J124-Final/main/energy-in-us-city-averag.png)
 5)
 ![image](https://raw.githubusercontent.com/pan317/J124-Final/main/housing-in-us-city-avera.png)
+
 6) 
 ![image](https://raw.githubusercontent.com/pan317/J124-Final/main/Personal%20Consumption%20Expenditures%20change%20rate.png)
 7) 
