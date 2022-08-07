@@ -98,29 +98,29 @@ This table shows the specific weights of different commodities in the CPI statis
 
 ### Scope of Analysis 
 1) What is the situation of consumption based on the current level of CPI and income growth?
-2) what commodities are most correlated with CPi？
+2) 
 3) what types of commodities are the main factors cause high CPI？
 4) what are the main factors driving inflation at different times?
 5) whether there is some lag in inflation?
 
 ### Analysis
-1) Analysis 1
+1) Analysis 1 ：What is the situation of consumption based on the current level of CPI and income growth?
 
 
-2) Analysis 2
+2) Analysis 2 ：
 
 
-3) Analysis 3
+3) Analysis 3 ：what types of commodities are the main factors cause high CPI？
 
 
 4) Analysis 4 ：what are the main factors driving inflation at different times?
 
-First, open the CPI table provided by the National Bureau of Statistics. We used the MAX formula to get the most significant increase in each month of goods, as shown in the figure below. We can see that except for the beginning of the epidemic, such as from March to September 20, when the surge in demand for medical supplies led to an increase in medical supplies, the rest of the month's inflation was caused by oil.
+First, open the CPI table provided by the National Bureau of Statistics. We used the MAX formula to get the most significant increase in each month of goods, as shown in the figure below. We can see that except for the beginning of the epidemic, such as from March to September 20, when the surge in demand for medical supplies led to an increase in medical supplies, the rest of the month's inflation was caused by oil. Also the graph of "CPI Comparison Of Major Commodity Data" above can support this opinion.
 
 ![image](https://raw.githubusercontent.com/pan317/J124-Final/main/Max.png)
 
 
-5) Analysis 5
+5) Analysis 5 ：whether there is some lag in inflation?
 
 
 
