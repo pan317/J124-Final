@@ -18,7 +18,7 @@ In this project, I analyzed CPI data and core CPI data from [U.S. BUREAU OF LABO
  	* Email: seung.j.lee@frb.gov 
 	* Seung Jung Lee is an experienced head of research group with a demonstrated history of working in financial stability, banking, and syndicated lending-related topics. Also focuses on policy issues of core interest to the central bank and financial supervisory community.
 	
-2)Burcu Duygan-Bump, Associate Director,Program Direction Section of Research and Statistics
+2) Burcu Duygan-Bump, Associate Director,Program Direction Section of Research and Statistics
 	* Email: burcu.duygan-bump@frb.gov
 	* Phone Number: 202-912-4663
 	* Burcu Duygan-Bump worked as a Deputy Associate Director for the Federal Reserve Board of Governors (FRB),she focus on the liquidity regulations and a lender of last resort in order to organize the data from open market.
