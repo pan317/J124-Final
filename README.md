@@ -65,8 +65,12 @@ In this project, I analyzed CPI data and core CPI data from [U.S. BUREAU OF LABO
 4) what are the main factors driving inflation at different times
 5) whether there is some lag in inflation
 
-###Analysis
-1)Analysis 1
+### Analysis
+1) Analysis 1
+2) Analysis 2
+3) Analysis 3
+4) Analysis 4
+5) Analysis 5
 
 
 
