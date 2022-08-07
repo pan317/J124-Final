@@ -50,12 +50,12 @@ In this project, I analyzed CPI data and core CPI data from [U.S. BUREAU OF LABO
 6) Personal Consumption Expenditures Change Rate
 ![image](https://raw.githubusercontent.com/pan317/J124-Final/main/Personal%20Consumption%20Expenditures%20change%20rate.png)
 
-8) CPI Comparison Of Major Commodity Data
+7) CPI Comparison Of Major Commodity Data
 ![image](https://raw.githubusercontent.com/pan317/J124-Final/main/CPI%20comparison%20of%20major%20commodity%20data.jpg)
-9) CPI Five wWighted Commodity Change Comparison
+8) CPI Five wWighted Commodity Change Comparison
 ![image](https://github.com/pan317/J124-Final/blob/main/CPI%20five%20weighted%20commodity%20change%20comparison.jpg)
 
-7) CPI Components
+9) CPI Components
 ![image](https://raw.githubusercontent.com/pan317/J124-Final/main/CPI%20components.png)
 
 
