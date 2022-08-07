@@ -29,3 +29,12 @@ In this project, I analyzed CPI data and core CPI data from [U.S. BUREAU OF LABO
 2) [POLITICS Expectations negative as views of economy, finances worsen — CBS News poll](https://www.cbsnews.com/news/economy-personal-finances-opinion-poll-2022-06-26/)
 	* This source demonstrates the expectations of the population in the current situation and the potential impact.
 	* This information can effectively reflect the mindset and expectations of the public regarding economic development trends and feedback their psychological expectations, thus providing readers with a complete narrative reference.
+
+## Data Visualizations
+
+## Data Explore & Analysis
+
+
+
+
+
