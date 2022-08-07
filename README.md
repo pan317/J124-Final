@@ -36,11 +36,13 @@ In this project, I analyzed CPI data and core CPI data from [U.S. BUREAU OF LABO
 ## Data Visualizations
 
 1) Personal Income Change Rate
+
 This graph shows the change in personal income from the start of the outbreak in January 2020 to the present.
 
 ![image](https://raw.githubusercontent.com/pan317/J124-Final/main/Personal%20income%20change%20rate.png)
 
 2) All Items Index
+
 This graph shows the change in prices of all items from the beginning of the outbreak in January 2020 to the present.
 
 ![image](https://raw.githubusercontent.com/pan317/J124-Final/main/all-items-in-us-city-ave.png)
