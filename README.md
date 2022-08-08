@@ -112,15 +112,15 @@ From Figure 1 to Figure 5, people can see that personal income has little growth
 
 2) Analysis 2 ：Which goods have the highest correlation with CPI and what is the link to the current inflation situation?
 
-As you can see from the CPI Components table above, the highest proportion of the CPI's statistical weights is the OER, or Owners' Equivalent Rent, which has not increased much; therefore, the overall CPI has not increased by double digits, and the increase in its weight after the revision has depressed inflation at the data level.
+As you can see from the CPI Components table above, the highest proportion of the CPI's statistical weights is the OER, or Owners' Equivalent Rent, which has not increased much; therefore, the overall CPI has not increased by double digits, and the increase in its weight after the revision has depressed inflation at the data level. So the inflation data does not reflect the actual impact on the population.
 
 ![image](https://raw.githubusercontent.com/pan317/J124-Final/main/CPI%20components.png)
 
 3) Analysis 3 ：what types of commodities are the main factors cause high CPI？
 
-As seen by the eighth data chart CPI Five wWighted Commodity Change Comparison, under the chain of commodity growth, only the energy category pulled away from the other commodities by a significant margin. Although its weight is not the highest, the percentage of increase is striking and is currently the main factor of inflation.
+As seen by the eighth data chart CPI Six wWighted Commodity Change Comparison, under the chain of commodity growth, only the energy category pulled away from the other commodities by a significant margin. Although its weight is not the highest, the percentage of increase is striking and is currently the main factor of inflation.
 
-![image](https://raw.githubusercontent.com/pan317/J124-Final/main/CPI%20comparison%20of%20major%20commodity%20data.png)
+![image](https://raw.githubusercontent.com/pan317/J124-Final/main/Rader.png)
 
 4) Analysis 4 ：what are the main factors driving inflation at different times?
 
