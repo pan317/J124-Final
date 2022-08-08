@@ -118,7 +118,7 @@ As you can see from the CPI Components table above, the highest proportion of th
 
 3) Analysis 3 ：what types of commodities are the main factors cause high CPI？
 
-As seen by the eighth data chart CPI Six wWighted Commodity Change Comparison, under the chain of commodity growth, only the energy category pulled away from the other commodities by a significant margin. Although its weight is not the highest, the percentage of increase is striking and is currently the main factor of inflation.
+As seen by the eighth data chart CPI Six wWighted Commodity Change Comparison, under the chain of commodity growth, only the energy and gas categories pulled away from the other commodities by a significant margin. Although its weight is not the highest, the percentage of increase is striking and is currently the main factor of inflation.
 
 ![image](https://raw.githubusercontent.com/pan317/J124-Final/main/Rader.png)
 
@@ -134,4 +134,4 @@ As you can see in the sorted data table in the chart, the green represents the t
 
 ![image](https://raw.githubusercontent.com/pan317/J124-Final/main/sort.png)
 
-
+### Exploration
