@@ -1,6 +1,6 @@
 # The impact of lifestyles across the U.S. under hyperinflation
 
-##By Zixuan Pan
+## By Zixuan Pan
 
 ## Story Pitch Summary
 The United States is facing the most severe inflation in 40 years due to multiple factors, such as the implementation of massive stimulus measures, rebounding demand, and poor supply chain after the outbreak of the new crown epidemic. Different income groups in the United States face a mismatch between income growth and consumption growth simultaneously, forcing many people to change their lifestyles.
