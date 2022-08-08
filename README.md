@@ -77,11 +77,11 @@ This area chart shows a comparison of the magnitude of change in key commodities
 
 ![image](https://raw.githubusercontent.com/pan317/J124-Final/main/CPI%20comparison%20of%20major%20commodity%20data.png)
 
-8) CPI Five wWighted Commodity Change Comparison
+8) CPI Most Six Wighted Commodity Change Comparison
 
 This radar chart shows a comparison of the magnitude of change in the five CPI weighted commodities from the start of the January 2020 outbreak to the present.
 
-![image](https://github.com/pan317/J124-Final/blob/main/CPI%20five%20weighted%20commodity%20change%20comparison.jpg)
+![image](https://raw.githubusercontent.com/pan317/J124-Final/main/Rader.png)
 
 9) CPI Components
 
@@ -106,9 +106,9 @@ This table shows the specific weights of different commodities in the CPI statis
 ### Analysis
 1) Analysis 1 ：What is the situation of consumption based on the current level of CPI and income growth?
 
-From Figure 1 to Figure 5, people can see that personal income has little growth during this period, while personal necessities such as food, energy, and medical supplies all tend to rise significantly. Therefore, personal consumption no longer has a strong growth momentum under the high prices; instead, it has turned into a contraction of consumption, as shown in Figure 6 Personal Consumption Expenditures Change Rate.
+From [Figure 1](https://www.datawrapper.de/_/PmO6i/) to Figure 5, people can see that personal income has little growth during this period, while personal necessities such as food, energy, and medical supplies all tend to rise significantly. Therefore, personal consumption no longer has a strong growth momentum under the high prices; instead, it has turned into a contraction of consumption, as shown in Figure 6 Personal Consumption Expenditures Change Rate.
 
-![image](https://raw.githubusercontent.com/pan317/J124-Final/main/Personal%20Consumption%20Expenditures%20change%20rate.png)
+![image](https://raw.githubusercontent.com/pan317/J124-Final/main/personal-consumption-expenditures-percent-change-monthly.png)
 
 2) Analysis 2 ：Which goods have the highest correlation with CPI and what is the link to the current inflation situation?
 
