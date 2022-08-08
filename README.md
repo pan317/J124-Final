@@ -79,7 +79,7 @@ This area chart shows a comparison of the magnitude of change in key commodities
 
 8) CPI Most Six Wighted Commodity Change Comparison
 
-This radar chart shows a comparison of the magnitude of change in the five CPI weighted commodities from the start of the January 2020 outbreak to the present.
+This radar chart shows a comparison of the magnitude of change in the six CPI weighted commodities from the start of the January 2020 outbreak to the present.
 
 ![image](https://raw.githubusercontent.com/pan317/J124-Final/main/Rader.png)
 
@@ -106,7 +106,7 @@ This table shows the specific weights of different commodities in the CPI statis
 ### Analysis
 1) Analysis 1 ：What is the situation of consumption based on the current level of CPI and income growth?
 
-From [Figure 1](https://www.datawrapper.de/_/PmO6i/) to Figure 5, people can see that personal income has little growth during this period, while personal necessities such as food, energy, and medical supplies all tend to rise significantly. Therefore, personal consumption no longer has a strong growth momentum under the high prices; instead, it has turned into a contraction of consumption, as shown in Figure 6 Personal Consumption Expenditures Change Rate.
+From Figure 1 to Figure 5, people can see that personal income has little growth during this period, while personal necessities such as food, energy, and medical supplies all tend to rise significantly. Therefore, personal consumption no longer has a strong growth momentum under the high prices; instead, it has turned into a contraction of consumption, as shown in Figure 6 below Personal Consumption Expenditures Change Rate.
 
 ![image](https://raw.githubusercontent.com/pan317/J124-Final/main/personal-consumption-expenditures-percent-change-monthly.png)
 
