@@ -120,7 +120,7 @@ As you can see from the CPI Components table above, the highest proportion of th
 
 As seen by the eighth data chart CPI Five wWighted Commodity Change Comparison, under the chain of commodity growth, only the energy category pulled away from the other commodities by a significant margin. Although its weight is not the highest, the percentage of increase is striking and is currently the main factor of inflation.
 
-![image](https://github.com/pan317/J124-Final/blob/main/CPI%20five%20weighted%20commodity%20change%20comparison.jpg)
+![image](https://raw.githubusercontent.com/pan317/J124-Final/main/CPI%20comparison%20of%20major%20commodity%20data.png)
 
 4) Analysis 4 ：what are the main factors driving inflation at different times?
 
