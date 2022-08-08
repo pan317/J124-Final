@@ -26,10 +26,10 @@ In this project, I analyzed CPI data and core CPI data from [U.S. BUREAU OF LABO
 	* Burcu Duygan-Bump worked as a Deputy Associate Director for the Federal Reserve Board of Governors (FRB),she focus on the liquidity regulations and a lender of last resort in order to organize the data from open market.
 
 ### Additional Sources
-1) [Most Americans expect inflation to get worse, Post-Schar School poll finds](https://www.washingtonpost.com/business/2022/06/09/inflation-worse-poll-americans/)
-	* This resource provides a basis polling and explain people's behavior in consumer side.
+1) [The inflation outlook](https://www2.deloitte.com/us/en/pages/operations/articles/the-inflation-outlook-four-futures-for-us-inflation.html)
+	* This information source analyzes the factors and effects of inflation.
 	* This resource can be used to identify additional economic trends and can provide a persuasive reference for readers to learn about the latest economic developments from the reports. 
-2) [POLITICS Expectations negative as views of economy, finances worsen — CBS News poll](https://www.cbsnews.com/news/economy-personal-finances-opinion-poll-2022-06-26/)
+2) [SURVEY OF CONSUMER EXPECTATIONS](https://www.newyorkfed.org/microeconomics/sce#/)
 	* This source demonstrates the expectations of the population in the current situation and the potential impact.
 	* This information can effectively reflect the mindset and expectations of the public regarding economic development trends and feedback their psychological expectations, thus providing readers with a complete narrative reference.
 
