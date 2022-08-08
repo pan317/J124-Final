@@ -65,7 +65,7 @@ This graph shows the change in housing prices from the beginning of the outbreak
 
 ![image](https://raw.githubusercontent.com/pan317/J124-Final/main/housing-in-us-city-avera.png)
 
-6) Personal Consumption Expenditures Change Rate
+6) [Personal Consumption Expenditures Change Rate](https://www.datawrapper.de/_/DSa0u/)
 
 This graph shows the change in personal consumption expenditures from the beginning of the outbreak in January 2020 to the present.
 
@@ -73,9 +73,9 @@ This graph shows the change in personal consumption expenditures from the beginn
 
 7) CPI Comparison Of Major Commodity Data
 
-This bar chart shows a comparison of the magnitude of change in key commodities from the start of the January 2020 outbreak to the present.
+This area chart shows a comparison of the magnitude of change in key commodities from the start of the January 2020 outbreak to the present.
 
-![image](https://raw.githubusercontent.com/pan317/J124-Final/main/CPI%20comparison%20of%20major%20commodity%20data.jpg)
+![image](https://raw.githubusercontent.com/pan317/J124-Final/main/CPI%20comparison%20of%20major%20commodity%20data.png)
 
 8) CPI Five wWighted Commodity Change Comparison
 
