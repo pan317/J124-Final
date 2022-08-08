@@ -69,7 +69,7 @@ This graph shows the change in housing prices from the beginning of the outbreak
 
 This graph shows the change in personal consumption expenditures from the beginning of the outbreak in January 2020 to the present.
 
-![image](https://raw.githubusercontent.com/pan317/J124-Final/main/Personal%20Consumption%20Expenditures%20change%20rate.png)
+![image](https://raw.githubusercontent.com/pan317/J124-Final/main/personal-consumption-expenditures-percent-change-monthly.png)
 
 7) [CPI Comparison Of Major Commodity Data(Datawrapper)](https://www.datawrapper.de/_/DSa0u/)
 
