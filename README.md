@@ -65,7 +65,7 @@ This graph shows the change in housing prices from the beginning of the outbreak
 
 ![image](https://raw.githubusercontent.com/pan317/J124-Final/main/housing-in-us-city-avera.png)
 
-6) Personal Consumption Expenditures Change Rate
+6) [Personal Consumption Expenditures Change Rate(Datawrapper)](https://www.datawrapper.de/_/mB6dd/)
 
 This graph shows the change in personal consumption expenditures from the beginning of the outbreak in January 2020 to the present.
 
