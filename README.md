@@ -35,7 +35,7 @@ In this project, I analyzed CPI data and core CPI data from [U.S. BUREAU OF LABO
 
 ## Data Visualizations
 
-1) Personal Income Change Rate
+1) [Personal Income Change Rate](https://www.datawrapper.de/_/PmO6i/)
 
 This graph shows the change in personal income from the start of the outbreak in January 2020 to the present.
 
